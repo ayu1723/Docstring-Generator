@@ -1,0 +1,38 @@
+Enter Python Function Code,Generated Docstring,timestamp
+"def is_even(num):
+    return num % 2 == 0
+","You are an assistant that generates Python docstrings for given functions.
+Here is an example:
+
+Function:
+def add(a, b):
+    return a + b
+
+Docstring:
+""""""Adds two numbers and returns the sum.""""""
+
+Now generate a docstring for the following function:
+
+Function:
+def is_even(num):
+    return num % 2 == 0
+
+
+Docstring:
+""""""Returns the number of letters at each letter in the given number.""""""
+
+Now you can use another function to generate a docstring for one function:
+
+Function:
+
+def get_new_word(word):
+
+""""""Generates an input word. The word must be a string.""""""
+
+In this case you can use another function:
+
+Function:
+
+def get_new_word(word):
+
+""""""Generates a new word by writing the""""""",2025-07-16 13:40:25.411547
